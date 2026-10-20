@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Mehul Patel 👋
 
-<!--
-**PMEHULP/PMEHULP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Power BI Developer | Data Analyst | Frontend Developer
 
-Here are some ideas to get you started:
+I'm a technology professional with corporate IT experience at Torrent Pharmaceuticals and a background in computer education and laboratory management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy transforming data into meaningful insights through interactive dashboards and building responsive, user-friendly web applications.
+
+## 🛠️ Technical Skills
+
+- **Data Analytics:** Power BI, DAX, Power Query, SQL, Advanced Excel
+- **Frontend Development:** HTML, CSS, JavaScript, React.js, TypeScript
+- **Tools:** Git, GitHub
+
+## 📊 Featured Projects
+
+### 1. Employee Tracker Dashboard
+An interactive employee dashboard for analyzing workforce distribution, attrition, salary trends, and department-level metrics.
+
+### 2. HR Management Dashboard
+A dashboard project focused on HR metrics, employee information, and workforce analysis.
+
+### 3. Product-Based Quarterly Dashboard
+A data visualization project for reviewing product performance and quarterly trends.
+
+### 4. Personal Portfolio Website
+A website showcasing my technical skills, projects, and professional profile.
+
+## 🎯 Career Interests
+
+- Power BI Developer
+- Power BI Analyst
+- Data Analyst
+- Frontend Developer
+
+## 🤝 Let's Connect
+
+- LinkedIn: Add your LinkedIn profile URL
+- Portfolio: Add your website URL
+- Email: Add your professional email address
