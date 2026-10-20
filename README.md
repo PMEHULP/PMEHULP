@@ -35,6 +35,5 @@ A website showcasing my technical skills, projects, and professional profile.
 
 ## 🤝 Let's Connect
 
-- LinkedIn: Add your LinkedIn profile URL
-- Portfolio: Add your website URL
-- Email: Add your professional email address
+- LinkedIn: https://www.linkedin.com/in/mehulkumar-patel-811006244
+- Email: rmehulm05@gmail.com
