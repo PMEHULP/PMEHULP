@@ -15,16 +15,16 @@ I enjoy transforming data into meaningful insights through interactive dashboard
 ## 📊 Featured Projects
 
 ### 1. Employee Tracker Dashboard
-An interactive employee dashboard for analyzing workforce distribution, attrition, salary trends, and department-level metrics.
+Power BI dashboard with employee distribution, attrition, salary trends, and department filters.
 
 ### 2. HR Management Dashboard
-A dashboard project focused on HR metrics, employee information, and workforce analysis.
+HR KPIs, employee analysis, and department-level reporting.
 
 ### 3. Product-Based Quarterly Dashboard
-A data visualization project for reviewing product performance and quarterly trends.
+Product performance comparisons and quarterly trends.
 
 ### 4. Personal Portfolio Website
-A website showcasing my technical skills, projects, and professional profile.
+Responsive website showcasing projects, technical skills, and contact information.
 
 ## 🎯 Career Interests
 
